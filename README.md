@@ -10,6 +10,6 @@
  - First testing of the prototype will be run from this branch.
  
  ## Structure Branch:
- Structure branch will add a framework for an explicit command based software structure. It create classes for all subsystems and commands. 
+ - Structure branch will add a framework for an explicit command based software structure. It create classes for all subsystems and commands. 
 
 
