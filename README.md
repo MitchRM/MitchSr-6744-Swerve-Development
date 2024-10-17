@@ -11,5 +11,5 @@
  
  ## Structure Branch:
  - Structure branch will add a framework for an explicit command based software structure. It create classes for all subsystems and commands. 
-
+ - Added some structure for commands and added DriveDistance.java with modifications to make it compile. It's not compatible with the swerve DriveSubsystem.
 
